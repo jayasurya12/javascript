@@ -5,3 +5,4 @@ if (num<1) {
 else{
 console.log(parseInt(Math.sqrt(num)));
 }
+

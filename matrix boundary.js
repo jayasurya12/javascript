@@ -13,3 +13,4 @@ for(let i=0;i<m;i++){
 }
 for(i=0;i<m;i++)
 console.log(mat[i].join(""))
+
