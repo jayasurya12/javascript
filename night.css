@@ -1,0 +1,15 @@
+.night{
+background-color:black;
+color:white;
+}
+button{
+  padding:14px 35px;
+  text-align:center;
+  border:none;
+  alig-item:center;
+}
+button:hover{
+  background-color: orange;
+  color:whitesmoke;
+  transition-duration:0.5s;
+}
