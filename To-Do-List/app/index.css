@@ -1,0 +1,73 @@
+
+body{
+    background-color: rgba(164, 120, 182, 0);
+    margin: 0;
+    padding: 0;
+}
+#boy{
+    padding-left: 35%;
+    padding-top: 10%;
+}
+#app{
+   margin: 50px;
+   width :30px;
+   padding:50px auto;
+   
+ }
+ #inputBox{
+     width:250px;
+     height:40px;
+     text-align: center;
+     border-radius: none;
+ }
+ #checkBox{
+     width: 20px;
+     height: 20px;
+ }
+
+.complete{
+    text-decoration: line-through;
+    color: gray;
+    font-family: 'Courier New', Courier, monospace;
+    
+} 
+.new{
+    margin-block-end:10px ;
+    margin-top: 10px;
+    border: 1px solid green;
+    cursor: pointer;
+    width: 25em;
+    height: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    position: relative;
+    
+}
+#textBox{
+    width: 30em;
+    height: 2em;
+    text-align: center;
+    border-radius:5px solid rgb(13, 31, 190);
+}
+#But{
+    width: 80px;
+    height: 40px;
+    position: relative;
+    left: 10px;
+    color: rgb(5, 43, 53);
+    background-color: rgb(54, 241, 54);
+    border: none;
+    border-radius: 2px;
+}
+#But:hover{
+    background-color: rgb(150, 213, 224);
+}
+ul{
+    list-style: none;
+}
+
+.super{
+    border-color: red;
+    text-decoration: line-through;
+    opacity: 0.3;
+}
